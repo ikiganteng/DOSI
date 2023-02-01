@@ -3,6 +3,7 @@
 Simple Auto Adventure DOSI
 
 Original by viloid ( github.com/vsec7 )
+
 Edited by ./ikiganteng
 ## • Features
 - Auto Claim DON / Attend Check
